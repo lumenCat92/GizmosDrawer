@@ -1,0 +1,14 @@
+{
+  "name": "com.lumencat.gizmosdrawer",
+  "version": "1.0.0",
+  "displayName": "Gizmos Drawer",
+  "description": "Drawing Gizmos with simple command and easy to managing",
+  "unity": "2023.2",
+  "author": {
+    "name": "LumenCat",
+    "email": "LumenCat@gmail.com"
+  },
+  "dependencies": {
+    "com.lumencat.timecounter": "https://github.com/lumenCat92/TimeCounter.git#v1.0.0"
+  }
+}
